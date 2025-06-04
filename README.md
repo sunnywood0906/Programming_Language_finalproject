@@ -18,7 +18,7 @@
        <li><h5>應用Gemini給予各類別建議(影片未詳細提及，可從程式碼參考)(功能參考作業1)</h5></li>
        </ul>    
      <li><h4>程式碼：https://github.com/sunnywood0906/Programming_Language_finalproject/blob/main/1132programmingfinalproject.ipynb</h4></li>
-     <li><h4>影片簡報：https://github.com/sunnywood0906/Programming_Language_finalproject/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E6%9C%9F%E6%9C%AB%E7%B5%82%E7%89%88.pdf</h4></li>
+     <li><h4>總結影片簡報：https://github.com/sunnywood0906/Programming_Language_finalproject/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E6%9C%9F%E6%9C%AB%E7%B5%82%E7%89%88.pdf</h4></li>
      <li><h4>檔案說明：</h4></li>
           <ul style='list-style-type'>
             <li><h5>mostpoppular_日期.csv等，為當初抓的熱門影片ID檔案，標題日期為抓取日期。</h5></li>
